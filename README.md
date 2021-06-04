@@ -2,7 +2,7 @@
 
 Imagine a tcode that you can't execute because of your roles/authorizations.
 
-If you have permission to execute Function Modules (SE37 or SE08) you’re good.
+If you have permission to execute Function Modules (SE37 or SE80) you’re good.
 
 ***Remember that this is a way to cheat SAP roles/authorizations, use at your own risk.***
 
